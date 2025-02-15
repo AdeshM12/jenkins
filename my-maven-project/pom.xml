@@ -53,6 +53,7 @@
         <repository>
             <id>internal-repo</id>
             <url>file:///D:/Jenkins/my-maven-project</url>
+            <url>https://github.com/AdeshM12/jenkins/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
 
