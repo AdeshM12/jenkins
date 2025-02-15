@@ -49,5 +49,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+        <repository>
+            <id>internal-repo</id>
+            <url>file:///C:/maven-repo/</url>
+        </repository>
+    </distributionManagement>
 
 </project>
